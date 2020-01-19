@@ -1,0 +1,2 @@
+# GitHub-scenarij
+Testni repozitorij
